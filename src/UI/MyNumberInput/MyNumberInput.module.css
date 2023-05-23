@@ -1,0 +1,9 @@
+.MyNumberInput{
+    border: 2px solid #A6584C;
+    text-align: center;
+    background-color: #EBFBFF;
+    margin: 5px 3px;
+    border-radius: 3px;
+    height: 20px;
+    font-size: 18px;
+}

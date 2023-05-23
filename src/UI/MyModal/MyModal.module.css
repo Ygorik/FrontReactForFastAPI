@@ -1,0 +1,27 @@
+.MyModalBG{
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.347);
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+}
+
+.MyModal{
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    background-color: #F6FFEA;
+    padding: 20px 40px;
+    border-radius: 5px;
+}
+
+.active{
+    display: block;
+}
+
+.inactive{
+    display: none;
+}
